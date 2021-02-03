@@ -1,4 +1,4 @@
-## Hi there :wave:
+## Eae galera :wave:
 
 ### Atualmete desenvolvo apenas nas seguintes linguagens:
 * 🖊️  | [HTML]
