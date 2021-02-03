@@ -16,7 +16,7 @@
 * [Discord](https://discord.com/users/274373296131407883)
 #
 
-### [Talk to me](https://wa.me/555180593271)
+### [Converse comigo por aqui](https://wa.me/555180593271)
 
-I'm sure I'll answer you
+Não tenho muito tempo, mas com certeza irei te respoder!
 #
