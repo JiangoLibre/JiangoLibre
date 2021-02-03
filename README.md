@@ -1,7 +1,7 @@
 ## Eae galera :wave:
 
 ### Atualmete desenvolvo apenas nas seguintes linguagens:
-* 🖊️  | [HTML]
+* 🖊️  | HTML
 * :art: | [CSS]
 #
 
