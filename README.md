@@ -2,15 +2,15 @@
 
 ### Atualmete desenvolvo apenas nas seguintes linguagens:
 * 🖊️  | HTML
-* :art: | [CSS]
+* :art: | CSS
 #
 
-### Estou aprendendo  👨🏽‍💻 :
-* 💻 | [JavaScript]
+### Estou aprendendo:  👨🏽‍💻 
+* 💻 | JavaScript
 
 #
 
-### Social Networks
+### Redes Sociais
 
 * [Instagram](https://www.instagram.com/joaoshie/)
 * [Discord](https://discord.com/users/274373296131407883)
