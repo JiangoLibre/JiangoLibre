@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi there :wave:
 
-<!--
-**JiangoLibre/JiangoLibre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Atualmete desenvolvo apenas nas seguintes linguagens:
+* 🖊️  | [HTML]
+* :art: | [CSS]
+#
 
-Here are some ideas to get you started:
+### Estou aprendendo  👨🏽‍💻 :
+* 💻 | [JavaScript]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+### Social Networks
+
+* [Instagram](https://www.instagram.com/joaoshie/)
+* [Discord](https://discord.com/users/274373296131407883)
+#
+
+### [Talk to me](https://wa.me/555180593271)
+
+I'm sure I'll answer you
+#
