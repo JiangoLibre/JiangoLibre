@@ -12,7 +12,7 @@
 
 ### Redes Sociais
 
-* [Instagram](https://www.instagram.com/joaoshie/)
+* [Instagram](https://www.instagram.com/activated.code/)
 * [Discord](https://discord.com/users/274373296131407883)
 #
 
