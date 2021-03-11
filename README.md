@@ -18,5 +18,5 @@
 
 ### [Converse comigo por aqui](https://wa.me/555180593271)
 
-Não tenho muito tempo, mas com certeza irei te respoder!
+Pode me chamar caso precise de algo, com certeza irei te respoder!
 #
