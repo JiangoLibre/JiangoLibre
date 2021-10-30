@@ -3,10 +3,12 @@
 ### Atualmete desenvolvo apenas nas seguintes linguagens:
 * 🖊️  | HTML
 * :art: | CSS
+* 💻 | JavaScript
 #
 
 ### Estou aprendendo:  👨🏽‍💻 
-* 💻 | JavaScript
+* 💻 | React
+* 💻 | Node
 
 #
 
