@@ -1,6 +1,6 @@
 ## Eae galera :wave:                                                                                                                                 ![](https://komarev.com/ghpvc/?username=JiangoLibre&color=blueviolet&label=Visitas+ao+Perfil)
 
-### Atualmete desenvolvo apenas nas seguintes linguagens:
+### Atualmente desenvolvo apenas nas seguintes linguagens:
 * 🖊️  | HTML
 * :art: | CSS
 * 💻 | JavaScript
