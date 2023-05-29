@@ -1,4 +1,4 @@
-## Eae galera :wave:                                                                                                                                 ![](https://komarev.com/ghpvc/?username=JiangoLibre&color=blueviolet&label=Visitas+ao+Perfil)
+## Olá :wave:                                                                                                                                 ![](https://komarev.com/ghpvc/?username=JiangoLibre&color=blueviolet&label=Visitas+ao+Perfil)
 
 ### Atualmente desenvolvo apenas nas seguintes linguagens:
 * 🖊️  | HTML
